@@ -1,22 +1,54 @@
-### **Nome do Projeto: Astronomia Explorada**
+# 🚀 Astronomia Explorada
 
-Este projeto é um site desenvolvido como parte de um curso de Desenvolvimento de Sistemas. O objetivo é criar um portal interativo para o espaço sideral, permitindo que os usuários aprendam sobre astronomia de forma acessível.
+## Sobre o Projeto
 
-**Funcionalidades e Conteúdo:**
+O Astronomia Explorada foi o primeiro projeto que desenvolvi durante o curso técnico de Desenvolvimento de Sistemas na ETEC, em 2023.
 
-O site é organizado em várias seções, que podem ser acessadas a partir da página inicial:
+Este projeto marca o início da minha trajetória na área de tecnologia e desenvolvimento de software. Foi através dele que comecei a aplicar na prática conceitos de estruturação de páginas web, organização de conteúdo, HTML e CSS.
 
-* **Nosso Sistema Solar**: Uma seção dedicada a cada planeta e ao Sol, com curiosidades e fatos sobre cada um.
-* **Exploração Espacial**: Informações sobre marcos importantes na história da exploração espacial, como a missão Apollo 11, as sondas Voyager e a Estação Espacial Internacional (EEI).
-* **Fenômenos Celestes**: Esta seção está incluída na navegação principal do site.
-* **Astrônomos Famosos**: Esta seção está incluída na navegação principal do site.
-* **Envie sua Sugestão**: Uma página com um formulário simples para os usuários enviarem suas sugestões.
+Embora seja um projeto simples quando comparado aos trabalhos mais recentes que desenvolvi, ele representa um passo importante na minha evolução profissional e demonstra onde minha jornada como desenvolvedor começou.
 
-**Tecnologias Utilizadas:**
+## Objetivo
 
-* HTML
-* CSS
+Criar um portal informativo sobre astronomia e exploração espacial, permitindo que os usuários conheçam mais sobre o universo de forma acessível e organizada.
 
-**Autor:**
+## Funcionalidades
 
-O projeto foi desenvolvido por Raul Gouvea.
+- 🌎 Informações sobre o Sistema Solar
+- 🚀 Conteúdo sobre exploração espacial
+- ✨ Seção de fenômenos celestes
+- 👨‍🔬 Página dedicada a astrônomos famosos
+- 📝 Formulário para envio de sugestões
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+## Aprendizados
+
+Durante o desenvolvimento deste projeto, tive meus primeiros contatos com:
+
+- Estruturação de páginas utilizando HTML
+- Estilização com CSS
+- Organização de conteúdo para web
+- Criação de navegação entre páginas
+- Desenvolvimento de interfaces estáticas
+
+## Evolução
+
+Desde a criação deste projeto, continuei estudando e desenvolvendo novas habilidades na área de desenvolvimento web, trabalhando atualmente com tecnologias como:
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Docker
+
+Este repositório permanece publicado como parte da minha trajetória de aprendizado e evolução como desenvolvedor.
+
+## Autor
+
+**Raul Gouvea**
+
+Desenvolvedor Front-end e estudante de Análise e Desenvolvimento de Sistemas.
